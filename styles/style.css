@@ -116,6 +116,7 @@
     grid-template-areas: ". . title title title title button button";
     place-items: center;
     font-size: 22px;
+    text-align: center;
 }
 
 .cover__description-text {
@@ -150,7 +151,6 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 25px;
-    place-items: center;
 }
 
 .card {
